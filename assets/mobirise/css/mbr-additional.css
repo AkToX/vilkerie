@@ -1389,6 +1389,10 @@ body {
 .cid-qFMkQOT5pI .card {
   padding-bottom: 1.5rem;
 }
+.cid-qFMkQOT5pI .mbr-text,
+.cid-qFMkQOT5pI .mbr-section-btn {
+  text-align: center;
+}
 .cid-qFMkNuIj9Q {
   padding-top: 30px;
   padding-bottom: 30px;
